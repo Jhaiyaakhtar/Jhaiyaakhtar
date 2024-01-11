@@ -1,0 +1,21 @@
+password = input("please type password!:")
+if password=="joya":
+  print ("welcome crate password")
+  games = input ("tumi ki game khelbe [y/n]:")
+  if games=="y":
+    print("Thanks. play the game")
+  elif games=="n":
+      print ("sorry end the game")
+      
+  
+games= input=  input("tumi amar ki hote caw[vaiya/apu]:")
+
+if games=="vaiya":
+  print ("ok thanks")
+elif games=="apu":
+  print("ho 😳")
+    
+else:
+  print("sorry your password is rong")
+
+￼Enter
